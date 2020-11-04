@@ -1,0 +1,20 @@
+.kolom{
+	height: auto;
+	width: 784px;
+}
+.kolom .kolom1{
+	background-color: #ffff01;
+	float: left;
+	width: 200px;
+	height: 400px; /*kalau dibuat auto warna kuningnya hanya setengah dari kolom 2
+					 biar sama, maka saya buat 400px di kolom 1 dan kolom 2*/
+	
+}
+.kolom .kolom2{
+	background-color: #d99896;
+	float: right;
+	height: 400px;
+	width: 584px;
+	
+}
+
