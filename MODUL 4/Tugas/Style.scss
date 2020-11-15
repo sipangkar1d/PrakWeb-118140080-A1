@@ -1,0 +1,76 @@
+.header{
+    ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #454545;
+    }
+    li{
+        float: left;
+        a{
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-family:'Times New Roman', Times, serif;
+            font-size: 20px;
+        }
+        a:hover{
+            background-color: #999999 ;
+        }
+    }
+    
+}
+.body{
+    #Home{
+        padding:0 20px;
+        h2{
+            text-align: center;
+            text-decoration: none;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 35px;
+        }
+    }
+    #Contact{
+        padding:0 20px ;
+        h2{
+            text-align: center;
+            text-decoration: none;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 35px;
+        }
+    }
+    #Gallery{
+        padding:0 20px ;
+        h2{
+            text-align: center;
+            text-decoration: none;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 35px;
+        }
+        img{
+            background-color: blanchedalmond;
+            padding :0 20px; 
+            display: block;
+            margin: auto;
+            height: 320px;
+            width: 1000px;
+        }
+    }
+    #About{
+        padding: 0 20px ;
+        
+        h2{
+            text-align: left;
+            text-decoration: none;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 20px;
+        }
+        p{
+            padding:0 70px;
+            font-size: 14px;
+        }
+    }
+}
