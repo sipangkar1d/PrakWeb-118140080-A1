@@ -1,0 +1,84 @@
+.header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #454545;
+}
+
+.header li {
+  float: left;
+}
+
+.header li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+
+.header li a:hover {
+  background-color: #999999;
+}
+
+.body #Home {
+  padding: 0 20px;
+}
+
+.body #Home h2 {
+  text-align: center;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 35px;
+}
+
+.body #Contact {
+  padding: 0 20px;
+}
+
+.body #Contact h2 {
+  text-align: center;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 35px;
+}
+
+.body #Gallery {
+  padding: 0 20px;
+}
+
+.body #Gallery h2 {
+  text-align: center;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 35px;
+}
+
+.body #Gallery img {
+  background-color: blanchedalmond;
+  padding: 0 20px;
+  display: block;
+  margin: auto;
+  height: 320px;
+  width: 1000px;
+}
+
+.body #About {
+  padding: 0 20px;
+}
+
+.body #About h2 {
+  text-align: left;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.body #About p {
+  padding: 0 70px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=Style.css.map */
