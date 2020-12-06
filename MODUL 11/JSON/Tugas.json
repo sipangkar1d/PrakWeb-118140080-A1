@@ -1,0 +1,28 @@
+{
+    "dataDiri" : {
+        "nama" : {
+            "awal" : "Daniel",
+            "akhir" : "Sipangkar"
+        },
+        "jenisKelamin" : "Laki-laki",
+        "saudara" : {
+            "kakakLakilaki" : "Rizky N Sipangkar", 
+            "adikLakilaki" : "Yosua P Sipangkar",
+            "adikPerempuan" : "Ruth S Sipangkar"    
+        },
+        "orangTua" : {
+            "ayah" : "Josten Sipangkar",
+            "ibu" : "Posmaida Aritonang"
+        },
+        "alamat" : {
+            "desa" : "Way huwi",
+            "kecamatan" :"Jati Agung",
+            "kabupaten" : "Lampung Selatan"
+        },
+        "sosialMedia" : {
+            "facebook" : "Daniel Sipangkar",
+            "instagram" : "daniel_sipangkar",
+            "line" : "Sipangkar02"
+        }
+    }
+}
